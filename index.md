@@ -3,6 +3,10 @@
 ![Image de Programação](https://t.ctcdn.com.br/fQTNMo-ELGhfrRSHMsjpz3zuB1M=/512x288/smart/filters:format(webp)/i611963.jpeg)
 
 
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
 
 # sample
 ## sample 2
